@@ -1,2 +1,3 @@
 Estou fazendo testes com o git e github para aprender mais sobre essa
 parte técnica. 
+Ajusta erro na parte da funcionalidade de testes com os usuários do site
